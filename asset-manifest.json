@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/breaking-bad-api-react/static/css/main.9cb35e45.chunk.css",
-    "main.js": "/breaking-bad-api-react/static/js/main.8257102a.chunk.js",
-    "main.js.map": "/breaking-bad-api-react/static/js/main.8257102a.chunk.js.map",
-    "runtime-main.js": "/breaking-bad-api-react/static/js/runtime-main.b38101c4.js",
-    "runtime-main.js.map": "/breaking-bad-api-react/static/js/runtime-main.b38101c4.js.map",
-    "static/js/2.a28b17e0.chunk.js": "/breaking-bad-api-react/static/js/2.a28b17e0.chunk.js",
-    "static/js/2.a28b17e0.chunk.js.map": "/breaking-bad-api-react/static/js/2.a28b17e0.chunk.js.map",
-    "index.html": "/breaking-bad-api-react/index.html",
-    "static/css/main.9cb35e45.chunk.css.map": "/breaking-bad-api-react/static/css/main.9cb35e45.chunk.css.map",
-    "static/js/2.a28b17e0.chunk.js.LICENSE.txt": "/breaking-bad-api-react/static/js/2.a28b17e0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/breaking-bad-api-react/static/media/bg.085908ea.jpg",
-    "static/media/logo.e6ecab44.png": "/breaking-bad-api-react/static/media/logo.e6ecab44.png",
-    "static/media/spinner.11d9cde8.gif": "/breaking-bad-api-react/static/media/spinner.11d9cde8.gif"
+    "main.css": "/ahnlok/breaking-bad-api-react/tree/gh-pages/static/css/main.1931a157.chunk.css",
+    "main.js": "/ahnlok/breaking-bad-api-react/tree/gh-pages/static/js/main.8257102a.chunk.js",
+    "main.js.map": "/ahnlok/breaking-bad-api-react/tree/gh-pages/static/js/main.8257102a.chunk.js.map",
+    "runtime-main.js": "/ahnlok/breaking-bad-api-react/tree/gh-pages/static/js/runtime-main.4162f98c.js",
+    "runtime-main.js.map": "/ahnlok/breaking-bad-api-react/tree/gh-pages/static/js/runtime-main.4162f98c.js.map",
+    "static/js/2.4057a941.chunk.js": "/ahnlok/breaking-bad-api-react/tree/gh-pages/static/js/2.4057a941.chunk.js",
+    "static/js/2.4057a941.chunk.js.map": "/ahnlok/breaking-bad-api-react/tree/gh-pages/static/js/2.4057a941.chunk.js.map",
+    "index.html": "/ahnlok/breaking-bad-api-react/tree/gh-pages/index.html",
+    "static/css/main.1931a157.chunk.css.map": "/ahnlok/breaking-bad-api-react/tree/gh-pages/static/css/main.1931a157.chunk.css.map",
+    "static/js/2.4057a941.chunk.js.LICENSE.txt": "/ahnlok/breaking-bad-api-react/tree/gh-pages/static/js/2.4057a941.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ahnlok/breaking-bad-api-react/tree/gh-pages/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/ahnlok/breaking-bad-api-react/tree/gh-pages/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/ahnlok/breaking-bad-api-react/tree/gh-pages/static/media/spinner.11d9cde8.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.b38101c4.js",
-    "static/js/2.a28b17e0.chunk.js",
-    "static/css/main.9cb35e45.chunk.css",
+    "static/js/runtime-main.4162f98c.js",
+    "static/js/2.4057a941.chunk.js",
+    "static/css/main.1931a157.chunk.css",
     "static/js/main.8257102a.chunk.js"
   ]
 }
